@@ -5,8 +5,7 @@
 doActions(){
 	## Put actions here
 
-	##playMedia "http://i.imgur.com/dAtcCfH.gif"
-	
+	playMedia "http://i.imgur.com/dAtcCfH.gif"
 	playMedia "http://i.imgur.com/VmGaKOG.gif";
 	playMedia "http://i.imgur.com/NOJMaGg.gif";
 	playMedia "http://i.imgur.com/nBTu3oi.gif";
