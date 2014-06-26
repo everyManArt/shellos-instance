@@ -6,10 +6,10 @@ doActions(){
 	## Put actions here
 
 	playMedia "http://radio.7chan.org:8000/CH7"
-	playMedia "http://i.imgur.com/VmGaKOG.gif";
-	playMedia "http://i.imgur.com/NOJMaGg.gif";
-	playMedia "http://i.imgur.com/nBTu3oi.gif";
-	playMedia "http://i.imgur.com/vzokKQ9.gif";
+	playMedia "http://i.imgur.com/VmGaKOG.gif" true;
+	playMedia "http://i.imgur.com/NOJMaGg.gif" true;
+	playMedia "http://i.imgur.com/nBTu3oi.gif" true;
+	playMedia "http://i.imgur.com/vzokKQ9.gif" true;
 	
 	##playMedia "http://i.imgur.com/2CCIIMk.gif";
 	
