@@ -5,7 +5,8 @@
 doActions(){
 	## Put actions here
 
-	playMedia "http://radio.7chan.org:8000/CH7"
+	##playMedia "http://radio.7chan.org:8000/CH7"
+	
 	playMedia "http://i.imgur.com/VmGaKOG.gif" true;
 	playMedia "http://i.imgur.com/NOJMaGg.gif" true;
 	playMedia "http://i.imgur.com/nBTu3oi.gif" true;
