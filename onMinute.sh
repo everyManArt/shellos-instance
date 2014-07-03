@@ -7,10 +7,12 @@ doActions(){
 
 
 
-	## Example youtube videos
-	##playYouTube "1FH-q0I1fJY" ##BROKEN ?
-	playYouTube "E5fccx15b2k"
-
+## Example youtube videos
+	##playYouTube "1FH-q0I1fJY" 
+	##playYouTube "E5fccx15b2k"
+	playYouTube "EzPlotAwm8Y"
+	
+	
 ##This playes 4Chan TV, who knew?
 	##playMedia "http://radio.7chan.org:8000/CH7"
 
@@ -37,8 +39,6 @@ doActions(){
 	##	playGif "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr06/1/12/anigif_enhanced-buzz-8788-1380646258-32.gif" ;
 	##	playGif "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr02/2/5/anigif_enhanced-buzz-12672-1380705549-14.gif" ;
 		
-	##playMedia "http://i.imgur.com/2CCIIMk.gif";
-	
 	
 	
 	
