@@ -10,6 +10,7 @@ doActions(){
 	## Example youtube videos
 	##playYouTube "1FH-q0I1fJY" ##BROKEN ?
 	playYouTube "E5fccx15b2k"
+	playYouTube "J7E-aoXLZGY"
 
 ##This playes 4Chan TV, who knew?
 	##playMedia "http://radio.7chan.org:8000/CH7"
