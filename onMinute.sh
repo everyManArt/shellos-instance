@@ -9,7 +9,7 @@ doActions(){
 
 ## Example youtube videos
 	##playYouTube "1FH-q0I1fJY" ##BROKEN ?
-	playYouTube "E5fccx15b2k"
+	##playYouTube "E5fccx15b2k"
 	##playYouTube "J7E-aoXLZGY"
 	##playYouTube "wQGn4wTIFs4"
 	## fucking lawnmowerman!
@@ -17,13 +17,6 @@ doActions(){
 	##playYouTube "TcsttrglrTI"
 	##playYouTube "9bgEwqi-Ydw"
 
-
-##random youtube stuff
-
-	##populate youtube list
-	youtubeUtil_youtubeVideoSearchResultsToFile "monkey" 
-
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 
 
 ##This playes 4Chan TV, who knew?
@@ -50,12 +43,15 @@ doActions(){
 	##	playGif "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr05/1/11/anigif_original-grid-image-20611-1380642921-25.gif" ;
 	##	playGif "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr01/1/12/anigif_enhanced-buzz-13824-1380644864-1.gif" ;
 	##	playGif "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr06/1/12/anigif_enhanced-buzz-8788-1380646258-32.gif" ;
-	##	playGif "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr02/2/5/anigif_enhanced-buzz-12672-1380705549-14.gif" ;
+		playGif "http://s3-ec.buzzfed.com/static/2013-10/enhanced/webdr02/2/5/anigif_enhanced-buzz-12672-1380705549-14.gif" ;
 		
 	
-	
-	
-	
+##random youtube stuff
+
+	##populate youtube list
+	youtubeUtil_youtubeVideoSearchResultsToFile "monkey" 
+
+	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 
 
 	## when done go home
