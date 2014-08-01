@@ -9,20 +9,25 @@ doActions(){
 
 ## Example youtube videos
 	##playYouTube "1FH-q0I1fJY" ##BROKEN ?
-	##playYouTube "E5fccx15b2k"
+	playYouTube "E5fccx15b2k"
 	##playYouTube "J7E-aoXLZGY"
 	##playYouTube "wQGn4wTIFs4"
-	
 	## fucking lawnmowerman!
-	playYouTube "zJer9aivOrA"
+	##playYouTube "zJer9aivOrA"
+	##playYouTube "TcsttrglrTI"
+	##playYouTube "9bgEwqi-Ydw"
 
-	playYouTube "TcsttrglrTI"
-	
-	playYouTube "9bgEwqi-Ydw"
+
+##random youtube stuff
+
+	##populate youtube list
+	youtubeUtil_youtubeVideoSearchResultsToFile "monkey" 
+
+	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 
 
 ##This playes 4Chan TV, who knew?
-	playMedia "http://radio.7chan.org:8000/CH7"
+	##playMedia "http://radio.7chan.org:8000/CH7"
 
 
 
