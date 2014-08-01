@@ -49,9 +49,9 @@ doActions(){
 ##random youtube stuff
 
 	##populate youtube list
-	youtubeUtil_youtubeVideoSearchResultsToFile "monkey" 
+##	youtubeUtil_youtubeVideoSearchResultsToFile "monkey" 
 
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
+##	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 
 
 	## when done go home
