@@ -48,10 +48,6 @@ doActions(){
 	
 ##random youtube stuff
 
-	##populate youtube list
-	playYouTube "7_3QteCI7Pk"
-	youtubeUtil_youtubeVideoSearchResultsToFile "monkey" 
-
 	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
