@@ -4,6 +4,8 @@
 doActions(){
 	## Put actions here
 	
+	clearPrecacheFile
+	
 	playYouTube "8o0dYPfN-PM"
 	echo "Pre-loading youtube search"
 	
