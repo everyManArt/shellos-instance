@@ -54,18 +54,6 @@ doActions(){
 
 
 	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 
 
 	## when done go home
