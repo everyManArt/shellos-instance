@@ -48,9 +48,9 @@ doActions(){
 	
 ##random youtube stuff
 		##populate youtube list
-	playYouTube "8o0dYPfN-PM"
-	echo "Pre-loading youtube search"
-	youtubeUtil_youtubeVideoSearchResultsToFile "war" 
+	##playYouTube "8o0dYPfN-PM"
+	##echo "Pre-loading youtube search"
+	##youtubeUtil_youtubeVideoSearchResultsToFile "war" 
 
 
 	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
