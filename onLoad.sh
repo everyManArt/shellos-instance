@@ -6,7 +6,7 @@ doActions(){
 	
 	playYouTube "8o0dYPfN-PM"
 	echo "Pre-loading youtube search"
-	youtubeUtil_youtubeVideoSearchResultsToFile "war" 
+	youtubeUtil_youtubeVideoSearchResultsToFile youtubeUtil_youtubeVideoSearchResultsToFile $(dictionaryUtil_getRandomWordFromFile "./core/resources/dictionary.txt"); 
 	
 	
 
