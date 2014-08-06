@@ -15,7 +15,7 @@ doActions(){
 	
 	
 	##youtubeUtil_youtubeVideoSearchResultsToFile $RAND_WORD 
-	youtubeUtil_youtubeVideoSearchResultsToFile "amazing explosions" 
+	youtubeUtil_youtubeVideoSearchResultsToFile "amazing+explosions" 
 
 	## when done go home
 	allActionsComplete
