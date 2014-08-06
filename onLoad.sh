@@ -14,7 +14,8 @@ doActions(){
 	echo "Searching with word:"$RAND_WORD
 	
 	
-	youtubeUtil_youtubeVideoSearchResultsToFile $RAND_WORD 
+	##youtubeUtil_youtubeVideoSearchResultsToFile $RAND_WORD 
+	youtubeUtil_youtubeVideoSearchResultsToFile "trailer" 
 
 	## when done go home
 	allActionsComplete
