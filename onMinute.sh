@@ -13,8 +13,8 @@ doActions(){
 ## For example.....
 
 	##playYouTube "E5fccx15b2k"
-	##playYouTube "J7E-aoXLZGY"
-	##playYouTube "wQGn4wTIFs4"
+	playYouTube "J7E-aoXLZGY"
+	playYouTube "wQGn4wTIFs4"
 	## fucking lawnmowerman!
 	playYouTube "zJer9aivOrA"
 	##playYouTube "TcsttrglrTI"
@@ -56,7 +56,7 @@ doActions(){
 	##youtubeUtil_youtubeVideoSearchResultsToFile "war" 
 
 
-	playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
+	##playYouTube $(dictionaryUtil_getRandomWordFromFile "./precache/youtubeSearchList.txt")
 
 
 	## when done go home
