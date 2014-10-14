@@ -3,17 +3,20 @@
 
 
 doActions(){
-	## Put actions here
+	
+	## Here is your crash course of example stuff....
+	
+	## Just so you know, any line that starts with "##" is ignored by the code....
+	
+	
+## So, you can play a youtube video, "playYouTube" followed by any youtube code.
+## For example.....
 
-
-
-## Example youtube videos
-	##playYouTube "1FH-q0I1fJY" ##BROKEN ?
 	##playYouTube "E5fccx15b2k"
 	##playYouTube "J7E-aoXLZGY"
 	##playYouTube "wQGn4wTIFs4"
 	## fucking lawnmowerman!
-	##playYouTube "zJer9aivOrA"
+	playYouTube "zJer9aivOrA"
 	##playYouTube "TcsttrglrTI"
 	##playYouTube "9bgEwqi-Ydw"
 
