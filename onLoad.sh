@@ -4,7 +4,7 @@
 doActions(){
 
 	## this line will remove locally saved stuff, good to save space, bad for downloads
-	clearPrecacheFile
+	##clearPrecacheFile
 	
 	playYouTube "ir50v0UZEIE"
 	echo "Pre-loading youtube search"
